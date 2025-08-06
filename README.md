@@ -1,3 +1,7 @@
+# CaOPWa
+
+<img width="3000" height="1000" alt="アプリ画像" src="https://github.com/user-attachments/assets/c1abca63-fb99-4493-87a1-f3d791e16a4a" />
+
 この文書は、デスクトップ向け便利ツールアプリCaOPWaのドキュメントです。このアプリは、開発者自身が使いたいという発想から生まれたもので、実用性と使いやすさに重点を置いています。
 
 主な機能
